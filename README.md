@@ -57,7 +57,7 @@ chmod +x pf9_upload.sh
 ```
 Or download directly:
 ```bash
-curl -O https://raw.githubusercontent.com/platform9/log-uploads/pf9_upload.sh
+curl -O https://raw.githubusercontent.com/platform9/log-uploads/refs/heads/main/pf9_upload.sh
 chmod +x pf9_upload.sh
 ```
 

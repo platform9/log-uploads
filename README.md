@@ -100,5 +100,6 @@ All failures print helpful debug output to assist troubleshooting.
 ---
 
 ## 🧩 Author
-Developed by Platform9 Systems
+Developed by Platform9 Systems.
+
 Maintained by the Platform9 SRE team.
